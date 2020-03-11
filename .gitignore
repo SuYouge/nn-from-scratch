@@ -1,0 +1,5 @@
+/build
+/data
+/projects
+main.cpp
+*.txt
